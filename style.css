@@ -73,30 +73,25 @@ img {
   margin-bottom: 16px;
 }
 
-.mainContent__button {
-}
-
-.button__start {
+.mainContent__button button {
   font-family: "Gilroy-Bold";
   font-size: 15px;
   line-height: 18px;
-  background: #f25822;
-  color: #ffffff;
-  border-radius: 50px;
-  box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
   border: none;
   padding: 15px 35px;
   cursor: pointer;
 }
 
+.button__start {
+  background: #f25822;
+  color: #ffffff;
+  border-radius: 50px;
+  box-shadow: 4px 4px 8px rgba(242, 88, 34, 0.2);
+}
+
 .button__watch {
-  font-family: "Gilroy-Bold";
-  font-size: 15px;
-  line-height: 18px;
   background: none;
   color: #aaaaaa;
-  border: none;
-  cursor: pointer;
 }
 
 .footer {
